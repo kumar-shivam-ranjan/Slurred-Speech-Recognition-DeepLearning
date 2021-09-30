@@ -10,4 +10,5 @@ The well known Automatic Speech Recognition Systems are Alexa, Siri , Google Hom
  
 
 ## Problem Statement
-The state of the art Automatic Speech Recognition can greatly improve the lives of those with speech impairements. However , the end to end deep learning Automatic Speech Recognition System trained from 'normal' speech tend to perform poorly for those who have speech impairements either due to accident or disease. The purpose is to improve ASR for people who have speech impairements or have non-standard speech.
+The state of the art Automatic Speech Recognition can greatly improve the lives of those with speech impairements. However , the end to end deep learning Automatic Speech Recognition System trained from 'normal' speech tend to perform poorly for those who have speech impairements either due to accident or disease. 
+The purpose is to improve ASR for people who have speech impairements. In other words, we have to develop an ASR model that works on personalised non-standard speech.
