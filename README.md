@@ -2,8 +2,9 @@
 Deep learning has evolved a lot to develop end to end state of the art speech Recognition System.
 End to end deep learning model for automatic speech Recognition is much simpler than traditional speech systems which tend to perform poorly in noisy enviroments. Deep learning End to End models doesn't need hand designed components to model background noise and speaker variation.
 
-The well known Automatic Speech Recognition Systems are Alexa, Siri , Google Home etc. This class of applications starts with clip of spoken audio clip in a particular language and extracts the words that were spoken as text. There are also called Speech to Text Algorithms. 
-
+The well known Automatic Speech Recognition Systems are Alexa, Siri , Google Home etc. This class of applications starts with clip of spoken audio clip in a particular language and extracts the words that were spoken as text. There are also called Speech to Text Algorithms. <br><br>
+For Speech-to-Text problems, our training data consists of:<br>
+![img](https://user-images.githubusercontent.com/42781233/135642643-0c3c507a-5a10-4ab6-8445-441091bb7e13.png)
 ### For Automatic Speech Recognition, our training data consists of the following:
 -  `X: Input features i.e audio clips of spoken words`
 -  `Y: Target label or text transcript of what was spoken`
