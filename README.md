@@ -24,3 +24,10 @@ The base ASR model was trained on 100 hours of Librispeech Dataset.
 - Final Epoch Average Loss: 0.61
 - Final Epoch Average CER: 0.11
 - Final Epoch Average WER: 0.14
+
+# Dataset preparation
+After we train our ASR model on hundreds of hours of typical speech, we are good to go for fine-tuning our model on impaired speech. We need to collect impaired speech dataset. We build web app using django framework to do the same.
+
+## Link to web APP:
+1. http://speech-collection.herokuapp.com/index/
+2. https://mmig.github.io/speech-to-flac/
