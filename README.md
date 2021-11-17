@@ -2,9 +2,7 @@
 
 For Speech-to-Text problems, our training data consists of:<br>
 ![img](https://user-images.githubusercontent.com/42781233/135642643-0c3c507a-5a10-4ab6-8445-441091bb7e13.png)
-### For Automatic Speech Recognition, our training data consists of the following:
--  `X: Input features i.e audio clips of spoken words`
--  `Y: Target label or text transcript of what was spoken`
+
  
 
 # Problem Statement
