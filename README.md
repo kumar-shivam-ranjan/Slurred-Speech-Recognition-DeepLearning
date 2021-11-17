@@ -1,7 +1,5 @@
 # Slurred-Speech-Recognition-DeepLearning
 
-
-The well known Automatic Speech Recognition Systems are Alexa, Siri , Google Home etc. This class of applications starts with clip of spoken audio clip in a particular language and extracts the words that were spoken as text. There are also called Speech to Text Algorithms. <br><br>
 For Speech-to-Text problems, our training data consists of:<br>
 ![img](https://user-images.githubusercontent.com/42781233/135642643-0c3c507a-5a10-4ab6-8445-441091bb7e13.png)
 ### For Automatic Speech Recognition, our training data consists of the following:
