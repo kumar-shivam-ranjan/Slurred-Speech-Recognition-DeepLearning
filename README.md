@@ -8,9 +8,7 @@ For Speech-to-Text problems, our training data consists of:<br>
  
 
 # Problem Statement
-The state of the art Automatic Speech Recognition can greatly improve the lives of those with speech impairements. However , the end to end deep learning Automatic Speech Recognition System trained from 'normal' speech tend to perform poorly for those who have speech impairements either due to accident or disease. 
-The purpose is to improve ASR for people who have speech impairements. In other words, we have to develop an ASR model that works on personalised non-standard speech.
-
+The purpose of this project is to fine tune the the automatic speech recognition model or apply the technique of transfer learning so that it can convert atypical speech (voice of people with speech impairments) into text.
 ## High level Solution Overview
 We will start with the state of the art end to end speech Recognition model with high accuracy. This high quality ASR model will be trained on hundreds of hours of typical or standard speech with no impairements. After we achieve high accuracy for the end to end model, then we will start fine-tuning parts of the model to an individual with speech impairement.<br>
 So our main aproach is training a base model on a large dataset of normal speech and then training a personalised model using a much smaller slurred speech dataset. We can use tranfer learning for fine tuning parts of our base model.
