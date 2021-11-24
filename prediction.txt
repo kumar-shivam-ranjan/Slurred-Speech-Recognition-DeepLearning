@@ -1,0 +1,900 @@
+Prediction: aples and oranges are fruits not vegetables 
+Actual: apples and oranges are fruits not vegetables 
+
+Prediction: interstelar is a good science fiction movie 
+Actual: interstellar is a good science fiction movie 
+
+Prediction: the sallt in the ocean areflects the light from the sun 
+Actual: the salt in the ocean reflects the light from the sun 
+
+Prediction: i always get very cold in the winter 
+Actual: i always get very cold in the winter 
+
+Prediction: i stil have to work every saturday 
+Actual: i still have to work every saturday 
+
+Prediction: like to drink normal coffee nothing special 
+Actual: like to drink normal coffee nothing special 
+
+Prediction: my grandmother told me stories about it so i got scared 
+Actual: my grandmother told me stories about it so i got scared 
+
+Prediction: i want to sleep the whole day 
+Actual: i want to sleep the whole day 
+
+Prediction: i like fried egs 
+Actual: i like fried eggs 
+
+Prediction: the chicks flew away from the nest in the wind 
+Actual: the chicks flew away from the nest in the wind 
+
+Prediction: ah beach has waves while a lake does not 
+Actual: a beach has waves while a lake does not 
+
+Prediction: hapy birthday dear friend 
+Actual: happy birthday dear friend 
+
+Prediction: my dog ran after a cat 
+Actual: my dog ran after a cat 
+
+Prediction: the oonly music festival i know is in a smal town far away 
+Actual: the only music festival i know is in a small town far away 
+
+Prediction: i am very excited about my new phone and what it can do 
+Actual: i am very excited about my new phone and what it can do 
+
+Prediction: swimming in a pool is fun 
+Actual: swimming in a pool is fun 
+
+Prediction: every one of my family listens to music 
+Actual: every one of my family listens to music 
+
+Prediction: please tel me if you do not understand what 
+Actual: please tell me if you do not understand what 
+
+Prediction: i once had to make a decision in a very difficult situation 
+Actual: i once had to make a decision in a very difficult situation 
+
+Prediction: highly urbanized an hitoriic boulevard system a network that includes plulality 
+Actual: highly urbanized an historic boulevard system a network that includes plurality 
+
+Prediction: ahe governmental massacres in whih energy can be calcullated and calibrated 
+Actual: the governmental massacres in which energy can be calculated and calibrated 
+
+Prediction: wwannings are desigyned the extensions to versailes was onte of the sargailso 
+Actual: warnings are designed the extensions to versailles was one of the sargasso 
+
+Prediction: this formalism encourage greater openes there is a mobile 
+Actual: this formalism encourage greater openness there is a mobile 
+
+Prediction: wil attached to the rise of citizen jounalism being possible troug the great chicago 
+Actual: will attached to the rise of citizen journalism being possible through the great chicago 
+
+Prediction: wlowing spain the periodic table wuch orders elemeents by their aits of all gold placer 
+Actual: allowing spain the periodic table which orders elements by their units of all gold placer 
+
+Prediction: i once had to make a decision in a very difficultsituation oi feel a i cannot remember the truth 
+Actual: i once had to make a decision in a very difficult situation i feel bad i cannot remember the truth 
+
+Prediction: isleep is very important for our health 
+Actual: sleep is very important for our health 
+
+Prediction: i feel a sense of accomplishment when i prepare my own food 
+Actual: i feel a sense of accomplishment when i prepare my own food 
+
+Prediction: i think it was something like that wil you cal them 
+Actual: i think it was something like that will you call them 
+
+Prediction: lease leet me fiish i have a very shorm haistyl theatt is nearly bald there is a mouse and a cat 
+Actual: please let me finish i have a very short hairstyle that is nearly bald there is a mouse and a cat 
+
+Prediction: just comes free with my phone can you turnon the compute 
+Actual: just comes free with my phone can you turn on the computer 
+
+Prediction: waste now establishe stable popultion in the west a second country 
+Actual: waste now established stable populations in the west a second country 
+
+Prediction: acountries began folk flourishing epeciialy in the fal of winter last year 
+Actual: countries began folk flourishing especially in the fall of winter last year 
+
+Prediction: hre are several acouncils or law professors in tha countryside 
+Actual: there are several councils or law professors in the countryside 
+
+Prediction: montana teritory hugo boss escada adidas 
+Actual: montana territory hugo boss escada adidas 
+
+Prediction: i feel a sense of accomplishment when i prepare my own fod 
+Actual: i feel a sense of accomplishment when i prepare my own food 
+
+Prediction: we have a ma make a speech turn the light off 
+Actual: we have a man make a speech turn the light off 
+
+Prediction: aamazon gives free shipping important one to look at i cannot relate to him at all 
+Actual: amazon gives free shipping important one to look at i cannot relate to him at all 
+
+Prediction: the moue is in its house i know about this 
+Actual: the mouse is in its house i know about this 
+
+Prediction: i like cake beter than my favorite summer dish is a cold drink 
+Actual: i like cake better than my favorite summer dish is a cold drink 
+
+Prediction: wha movies came out last fridday my favoriite winter dis  is aa warm pie 
+Actual: what movies came out last friday my favorite winter dish is a warm pie 
+
+Prediction: i like books about interesting people and what thany have done in life 
+Actual: i like books about interesting people and what they have done in life 
+
+Prediction: i usualy wake up a litle later in the wekend 
+Actual: i usually wake up a little later in the weekend 
+
+Prediction: he has been with me for fourr yeas and he is a rabbit 
+Actual: he has been with me for four years and he is a rabbit 
+
+Prediction: i ound some mony on the floori would like to be his friend and talk to him daily 
+Actual: i found some money on the floor i would like to be his friend and talk to him daily 
+
+Prediction: i had a dream to achieve something in my life 
+Actual: i had a dream to achieve something in my life 
+
+Prediction: great to see you again set timer for three minutes 
+Actual: great to see you again set timer for three minutes 
+
+Prediction: i like to have fun but not all the time 
+Actual: i like to have fun but not all the time 
+
+Prediction: let us make our own pizzas later 
+Actual: let us make our own pizzas later 
+
+Prediction: walking is another way to stay healthy 
+Actual: walking is another way to stay healthy 
+
+Prediction: the bar soap is slippery and transfers more germs 
+Actual: the bar soap is slippery and transfers more germs 
+
+Prediction: i hhave straight hair and i like it i think i have had enough 
+Actual: i have straight hair and i like it i think i have had enough 
+
+Prediction: i have allways been cool music is good for people and can make them happy 
+Actual: i have always been cool music is good for people and can make them happy 
+
+Prediction: iturn on al light sometimes things happen to us 
+Actual: turn on all lights sometimes things happen to us 
+
+Prediction: feding sweets to children on a regular basis contributes to obesity in adulthood 
+Actual: feeding sweets to children on a regular basis contributes to obesity in adulthood 
+
+Prediction: the puppy would follow us to the shop 
+Actual: the puppy would follow us to the shop 
+
+Prediction: i am hapy when it is light or dark i wold rather not have bread 
+Actual: i am happy when it is light or dark i would rather not have bread 
+
+Prediction: give the dog a bone how fabulous for you 
+Actual: give the dog a bone how fabulous for you 
+
+Prediction: some people consider pluto a ninh planet but that is a topic for debate 
+Actual: some people consider pluto a ninth planet but that is a topic for debate 
+
+Prediction: but he was placed under the control of a commitee 
+Actual: but he was placed under the control of a committee 
+
+Prediction: al that was requied of him was to promise that he would not assume the regal titl 
+Actual: all that was required of him was to promise that he would not assume the regal title 
+
+Prediction: a chief object of the expedition was declared to be the anire suppression 
+Actual: a chief object of the expedition was declared to be the entire suppression 
+
+Prediction: it was very humid weather outside but they still dared to move to the newhouse 
+Actual: it was very humid weather outside but they still dared to move to the new house 
+
+Prediction: wthe canadas foreign policy is based out of the nature and design 
+Actual: the canadas foreign policy is based out of the nature and design 
+
+Prediction: basic traffic model fungi and insects does not affect my health 
+Actual: basic traffic model fungi and insects does not affect my health 
+
+Prediction: the one inorganic compounds are named according to european scientist 
+Actual: the one inorganic compounds are named according to european scientist 
+
+Prediction: haland and uplift thereby steepening rive gradients 
+Actual: halland and uplift thereby steepening river gradients 
+
+Prediction: this sugges cited the university of chicago medical 
+Actual: this suggests cited the university of chicago medical 
+
+Prediction: science trust term is often more critical with many technolgie such as nanotechnolog 
+Actual: science trust term is often more critical with many technologies such as nanotechnology 
+
+Prediction: scientific knowlede america along the leading caus 
+Actual: scientific knowledge america along the leading cause 
+
+Prediction: educatin or wid are deflected 
+Actual: education or wind are deflected 
+
+Prediction: i want to be a famous iports player which everyone admires to the fullest 
+Actual: i want to be a famous sports player which everyone admires to the fullest 
+
+Prediction: the bird came and told her the whole story 
+Actual: the bird came and told her the whole story 
+
+Prediction: i have products i buy every time at the supermarket 
+Actual: i have products i buy every time at the supermarket 
+
+Prediction: they were my favorite toys because i got to play with my friends 
+Actual: they were my favorite toys because i got to play with my friends 
+
+Prediction: ithey made some good friends that nigh 
+Actual: they made some good friends that night 
+
+Prediction: my family does not like rap music very much 
+Actual: my family does not like rap music very much 
+
+Prediction: ahat is the weather like tomorrow is it too cold mor hot i am not sure 
+Actual: what is the weather like tomorrow is it too cold or hot i am not sure 
+
+Prediction: we usualy play with my dogs and we would  run around terying to catch ach other 
+Actual: we usually play with my dogs and we would run around trying to catch each other 
+
+Prediction: isometimes w meet up and sometimes we do not ang ut togethr 
+Actual: sometimes we meet up and sometimes we do not hang out together 
+
+Prediction: then i had a shower and got dressend and open my coputer to check my emails and start working 
+Actual: then i had a shower and got dressed and open my computer to check my emails and start working 
+
+Prediction: there are good and positive things in everyone 
+Actual: there are good and positive things in everyone 
+
+Prediction: my family always takes care of me no mater what 
+Actual: my family always takes care of me no matter what 
+
+Prediction: chosing avocados is very har because quality matter a lot 
+Actual: choosing avocados is very hard because quality matters a lot 
+
+Prediction: i got a toy car when i was four years old 
+Actual: i got a toy car when i was four years old 
+
+Prediction: ispanish has more lletters compared to english 
+Actual: spanish has more letters compared to english 
+
+Prediction: i want to open a coffee shop 
+Actual: i want to open a coffee shop 
+
+Prediction: my favorite animal has to be a dog 
+Actual: my favorite animal has to be a dog 
+
+Prediction: i sent flowers for the first time today 
+Actual: i sent flowers for the first time today 
+
+Prediction: i also like to eat cakes more than pies 
+Actual: i also like to eat cakes more than pies 
+
+Prediction: i practice phone calls sor i do not mes up 
+Actual: i practice phone calls so i do not mess up 
+
+Prediction: i had al my toys piled onn one side 
+Actual: i had all my toys piled on one side 
+
+Prediction: my hair is a purple color but i wished it was black or blue or grey 
+Actual: my hair is a purple color but i wished it was black or blue or grey 
+
+Prediction: i would prefer if cell phones did not change sizes 
+Actual: i would prefer if cell phones did not change sizes 
+
+Prediction: my favorite pizza is made with the perfect rati of crust to sauce 
+Actual: my favorite pizza is made with the perfect ratio of crust to sauce 
+
+Prediction: they ne to maintain law and order in the country 
+Actual: they need to maintain law and order in the country 
+
+Prediction: star wars is an imaginary wourl that has multilevels of races and planets 
+Actual: star wars is an imaginary world that has multilevels of races and planets 
+
+Prediction: bananas are yellow and not green 
+Actual: bananas are yellow and not green 
+
+Prediction: it is a beautiful and sunny day 
+Actual: it is a beautiful and sunny day 
+
+Prediction: peanut bute is mad by crushing pleanuts and ading oils 
+Actual: peanut butter is made by crushing peanuts and adding oils 
+
+Prediction: our friendship i strong enough not to break 
+Actual: our friendship is strong enough not to break 
+
+Prediction: urn of the bedroom lighs so that we can sleep pacefully 
+Actual: turn off the bedroom lights so that we can sleep peacefully 
+
+Prediction: i am doing very well just as i am because nothing can beat me 
+Actual: i am doing very well just as i am because nothing can beat me 
+
+Prediction: cut the cake half so that eveyon is distributed equally 
+Actual: cut the cake half so that everyone is distributed equally 
+
+Prediction: tere are many countries i want to visit but i do nnt have that much mone 
+Actual: there are many countries i want to visit but i do not have that much money 
+
+Prediction: wthee is i cold chil to the air and we are barely ablle to eat anthing in this cold weathe 
+Actual: there is a cold chill to the air and we are barely able to eat anything in this cold weather 
+
+Prediction: i can make it better but the rest depends on you how you want to see this 
+Actual: i can make it better but the rest depends on you how you want to see this 
+
+Prediction: there are many holidays in december but none in january except new yyvear 
+Actual: there are many holidays in december but none in january except new year 
+
+Prediction: i would like you to see tomorrow but you did not come yesterday 
+Actual: i would like you to see tomorrow but you did not come yesterday 
+
+Prediction: i am always listeninng and trying to help whe i can 
+Actual: i am always listening and trying to help when i can 
+
+Prediction: ids wil always find a way to be nice to each other 
+Actual: kids will always find a way to be nice to each other 
+
+Prediction: i think that you are right 
+Actual: i think that you are right 
+
+Prediction: we are a family with traditions 
+Actual: we are a family with traditions 
+
+Prediction: te is light brown but he is also against racism in this cruel world 
+Actual: he is light brown but he is also against racism in this cruel world 
+
+Prediction: urn down kitchen lighs so that everyne can see who is the actual thie 
+Actual: turn down kitchen lights so that everyone can see who is the actual thief 
+
+Prediction: my dream job woul be in sport but i hope i was good at it 
+Actual: my dream job would be in sport but i hope i was good at it 
+
+Prediction: iit was the best jobi have ever had and i was having fun 
+Actual: it was the best job i have ever had and i was having fun 
+
+Prediction: it happens once in a while and it works once in a while 
+Actual: it happens once in a while and it works once in a while 
+
+Prediction: i was happy to have a cup of coffee and two cups of tea 
+Actual: i was happy to have a cup of coffee and two cups of tea 
+
+Prediction: i think cats are the most fiendly animal after dog 
+Actual: i think cats are the most friendly animal after dogs 
+
+Prediction: i went to work for then mayor but he refus to acccept me as an assistandt 
+Actual: i went to work for the mayor but he refused to accept me as an assistant 
+
+Prediction: without bees our environmeent would slowly decline 
+Actual: without bees our environment would slowly decline 
+
+Prediction: my postman may deliiver his ownn mail but it seems unlikel 
+Actual: my postman may deliver his own mail but it seems unlikely 
+
+Prediction: would telll my friends if i lost my phone and any type of valuabele materials 
+Actual: would tell my friends if i lost my phone and any type of valuable materials 
+
+Prediction: i get upset when we disconnec and stop talking to eeach other 
+Actual: i get upset when we disconnect and stop talking to each other 
+
+Prediction: turn on the tev and let us see some news going on arroundd the world 
+Actual: turn on the tv and let us see some news going on around the world 
+
+Prediction: bwatch videos on my cellphone way more than watching tv 
+Actual: watch videos on my cellphone way more than watching tv 
+
+Prediction: wthey also become better people when given suport 
+Actual: they also become better people when given support 
+
+Prediction: water is filtered from my refrigerator at home 
+Actual: water is filtered from my refrigerator at home 
+
+Prediction: the judge agrees to change the scoring system 
+Actual: the judge agrees to change the scoring system 
+
+Prediction: encils can be used to start a fire and even it can be used to kil 
+Actual: pencils can be used to start a fire and even it can be used to kill 
+
+Prediction: would you make a phone cal for me as i do not own any celphone right now 
+Actual: would you make a phone call for me as i do not own any cellphone right now 
+
+Prediction: i m older nnoow and have done a lo for the cruell societ 
+Actual: i am older now and have done a lot for the cruel society 
+
+Prediction: wine is made from red or white grapes and raww rice 
+Actual: wine is made from red or white grapes and raw rice 
+
+Prediction: i coould not go without coffee in the morning because it is difficult for me 
+Actual: i could not go without coffee in the morning because it is difficult for me 
+
+Prediction: wearing glasses is important for e becase i have far hyperoopia 
+Actual: wearing glasses is important for me because i have far hyperopia 
+
+Prediction: i like to watch movies and series at home 
+Actual: i like to watch movies and series at home 
+
+Prediction: they carried on with their lives and started living pecefully 
+Actual: they carried on with their lives and started living peacefully 
+
+Prediction: it cost me a lot of money to fix my laptop 
+Actual: it cost me a lot of money to fix my laptop 
+
+Prediction: love means to have great feelinags for someone 
+Actual: love means to have great feelings for someone 
+
+Prediction: you need to sleep like everyone else and stop waking up late in the morning 
+Actual: you need to sleep like everyone else and stop waking up late in the morning 
+
+Prediction: wthey end up becoming far better friends that anyoone els 
+Actual: they end up becoming far better friends that anyone else 
+
+Prediction: it is so swee and cheesy and goo 
+Actual: it is so sweet and cheesy and good 
+
+Prediction: i do not knowh the answer to tough questions like these 
+Actual: i do not know the answer to tough questions like these 
+
+Prediction: it is not goo to feel angry al the timme in a crucil situation like this 
+Actual: it is not good to feel angry all the time in a crucial situation like this 
+
+Prediction: i feel we are in a good place 
+Actual: i feel we are in a good place 
+
+Prediction: if we do not talk about what woriies us it can cause problemss late 
+Actual: if we do not talk about what worries us it can cause problems later 
+
+Prediction: my black and red car would be shinyy and fast 
+Actual: my black and red car would be shiny and fast 
+
+Prediction: i enjoyed our phone cal very muchh last night 
+Actual: i enjoyed our phone call very much last night 
+
+Prediction: he always loves to be with his friends 
+Actual: he always loves to be with his friends 
+
+Prediction: we got a full meal as wel as snacks 
+Actual: we got a full meal as well as snacks 
+
+Prediction: i feel sorry about that 
+Actual: i feel sorry about that 
+
+Prediction: i would love to go to a mussic festival and have some fun 
+Actual: i would love to go to a music festival and have some fun 
+
+Prediction: i had a great day 
+Actual: i had a great day 
+
+Prediction: it was later changed to virginia beach 
+Actual: it was later changed to virginia beach 
+
+Prediction: i have watche his movies beforre but i do noot knoww what he is like as a peorson 
+Actual: i have watched his movies before but i do not know what he is like as a person 
+
+Prediction: i ed an appointment with the dentist right now 
+Actual: i need an appointment with the dentist right now 
+
+Prediction: wt are you trying to say to me 
+Actual: what are you trying to say to me 
+
+Prediction: turn dowown living orom lights as soon as possible 
+Actual: turn down living room lights as soon as possible 
+
+Prediction: be wil do it tomorrow just afterr the sunset 
+Actual: we will do it tomorrow just after the sunset 
+
+Prediction: wen arre we leaving for the mumbai airport 
+Actual: when are we leaving for the mumbai airport 
+
+Prediction: i gues i better be goiing great to see yoou 
+Actual: i guess i better be going great to see you 
+
+Prediction: i enjoyed seeing you thanks 
+Actual: i enjoyed seeing you thanks 
+
+Prediction: some artists are grea ant singing livee and have a gra band to back them up 
+Actual: some artists are great at singing live and have a great band to back them up 
+
+Prediction: carrots arre orange vegetables but pineapples are not 
+Actual: carrots are orange vegetables but pineapples are not 
+
+Prediction: i would help people and answer their questions 
+Actual: i would help people and answer their questions 
+
+Prediction: you wil have lifetime aces to the content 
+Actual: you will have lifetime access to the content 
+
+Prediction: i saw a ship launch not more than twenty minutes ago 
+Actual: i saw a ship launch not more than twenty minutes ago 
+
+Prediction: because he saved my life and i neverr wanted any of this to hape to yo 
+Actual: because he saved my life and i never wanted any of this to happen to you 
+
+Prediction: you were a lot scarier when you had that face pain on 
+Actual: you were a lot scarier when you had that face paint on 
+
+Prediction: this is all myy faullt becaue i freaeked out so bad when you locked me up in that cave 
+Actual: this is all my fault because i freaked out so bad when you locked me up in that cave 
+
+Prediction: i am not going to apologize for doing what i had to do 
+Actual: i am not going to apologize for doing what i had to do 
+
+Prediction: bt he was placed under the control of the committe 
+Actual: but he was placed under the control of the committee 
+
+Prediction: bt what do you do when you arre stuck livving next to a neighbor 
+Actual: but what do you do when you are stuck living next to a neighbor 
+
+Prediction: before we get started could i just ask you to please leave a revieew 
+Actual: before we get started could i just ask you to please leave a review 
+
+Prediction: i have got a conversation episode for you today 
+Actual: i have got a conversation episode for you today 
+
+Prediction: i think he sums up the way i feell about it perfectly 
+Actual: i think he sums up the way i feel about it perfectly 
+
+Prediction: i think that was a nice introduction to the overaal topic 
+Actual: i think that was a nice introduction to the overall topic 
+
+Prediction: ind before i play the conversation i just want to mention that we do mention some videos 
+Actual: and before i play the conversation i just want to mention that we do mention some videos 
+
+Prediction: she is a super cool researcher who s looking  into this very question 
+Actual: she is a super cool researcher who is looking into this very question 
+
+Prediction: she explains how she got into this line of research 
+Actual: she explains how she got into this line of research 
+
+Prediction: so i can wholeheartedly recomend you check out the whole thing 
+Actual: so i can wholeheartedly recommend you check out the whole thing 
+
+Prediction: i cried when i saw that poor babyy ellehant die in pain 
+Actual: i cried when i saw that poor baby elephant die in pain 
+
+Prediction: i never realized how gratful i should be that i live in a free country 
+Actual: i never realized how grateful i should be that i live in a free country 
+
+Prediction: so it can oly do these smal batches of reice but it is so just little and round and cut 
+Actual: so it can only do these small batches of rice but it is so just little and round and cute 
+
+Prediction: so i gues you could say it serves me or takes car of me 
+Actual: so i guess you could say it serves me or takes care of me 
+
+Prediction: wyou can just upload the file and make your own which is superawesome 
+Actual: you can just upload the file and make your own which is super awesome 
+
+Prediction: it is just an expression that people use to expres surpris 
+Actual: it is just an expression that people use to express surprise 
+
+Prediction: wbecause she was saying that it was not taking  aaway from humans 
+Actual: because she was saying that it was not taking away from humans 
+
+Prediction: wthat evenng whe ate dinner ing a rallly wel revewed japanese restaurant just near our hotel 
+Actual: that evening we ate dinner in a really well reviewed japanese restaurant just near our hotel 
+
+Prediction: it is pretty much impossible to predic an earthquake 
+Actual: it is pretty much impossible to predict an earthquake 
+
+Prediction: we associate the beat moveement with certain wwriters 
+Actual: we associate the beat movement with certain writers 
+
+Prediction: the end of the dreamcame with a few event that showed the dark side of al that drugs 
+Actual: the end of the dream came with a few events that showed the dark side of all that drugs 
+
+Prediction: many people think that the place is not what it used to be 
+Actual: many people think that the place is not what it used to be 
+
+Prediction: i wonder aabout some oof the locals who have lived in the area for  loing time 
+Actual: i wonder about some of the locals who have lived in the area for a long time 
+
+Prediction: i recoginised the sarcas and imediately fel judged 
+Actual: i recognised the sarcasm and immediately felt judged 
+
+Prediction: is she o hpocrite for working in the shop even whe she disagree with somme of the producs it sels 
+Actual: is she a hypocrite for working in the shop even when she disagrees with some of the products it sells 
+
+Prediction: ianother guy by the si of the road seems to be homles 
+Actual: another guy by the side of the road seems to be homeless 
+
+Prediction: despite some of thee little scenes had a reall nice relaxing time in golden gat park 
+Actual: despite some of these little scenes had a really nice relaxing time in golden gate park 
+
+Prediction: we lay on the gras reading and napingg a bit and digesting our foo 
+Actual: we lay on the grass reading and napping a bit and digesting our food 
+
+Prediction: i hate to be the one who i telling her not to persue her care 
+Actual: i hate to be the one who is telling her not to persue her career 
+
+Prediction: wh is taj mahal located in india 
+Actual: where is taj mahal located in india 
+
+Prediction: i am happy to join with you today inn what will go down in history 
+Actual: i am happy to join with you today in what will go down in history 
+
+Prediction: i a sense we have come to ou capital to cash a check 
+Actual: in a sense we have come to our capital to cash a check 
+
+Prediction: bt we refuse to believe that the bank of justice is bankrupt 
+Actual: but we refuse to believe that the bank of justice is bankrupt 
+
+Prediction: b refuse to believe that thee are insufficient funs in the great vaults 
+Actual: we refuse to believe that there are insufficient funds in the great vaults 
+
+Prediction: it would be fatal for thenation to overok the turgency of the moment 
+Actual: it would be fatal for the nation to overlook the urgency of the moment 
+
+Prediction: enjoying a cup of tea wheile sittinng on my balcony on a sunday morning 
+Actual: enjoying a cup of tea while sitting on my balcony on a sunday morning 
+
+Prediction: sudenly i felt a deep pain in my chest 
+Actual: suddenly i felt a deep pain in my chest 
+
+Prediction: did the family know what happened or did the woman die unnoticed 
+Actual: did the family know what happened or did the woman die unnoticed 
+
+Prediction: seema decided to write a story for her schol magazine 
+Actual: seema decided to write a story for her school magazine 
+
+Prediction: the old man thought the yoounger daughter was moking him 
+Actual: the old man thought the younger daughter was mocking him 
+
+Prediction: how foolish i was to have believed that young womann 
+Actual: how foolish i was to have believed that young woman 
+
+Prediction: i also assured her that the people here are honest and whoevver finds i would return the walet 
+Actual: i also assured her that the people here are honest and whoever finds it would return the wallet 
+
+Prediction: i was angry but decided to act wisely 
+Actual: i was angry but decided to act wisely 
+
+Prediction: the young woman seemed terrified seeing me 
+Actual: the young woman seemed terrified seeing me 
+
+Prediction: i smiled and went offf thinking aabout how foolish i was to havee beleved that young woen 
+Actual: i smiled and went off thinking about how foolish i was to have believed that young women 
+
+Prediction: i jumpe out of the bed at midnigh wetn i heard noise of the opening of a door 
+Actual: i jumped out of the bed at midnight when i heard noise of the opening of a door 
+
+Prediction: i realised that it could be no other than a robber 
+Actual: i realised that it could be no other than a robber 
+
+Prediction: wut onne thing that surprises me most is that wheter it was realyy a obber or someone eelse 
+Actual: but one thing that surprises me most is that whether it was really a robber or someone else 
+
+Prediction: once upon a time there was an old rich lady who became blind 
+Actual: once upon a time there was an old rich lady who became blind 
+
+Prediction: mlast night you heard a noise in your room 
+Actual: last night you heard a noise in your room 
+
+Prediction: it was very hot last night 
+Actual: it was very hot last night 
+
+Prediction: as i opened the window i saw ann unsual looking face i was astonished 
+Actual: as i opened the window i saw an unusual looking face i was astonished 
+
+Prediction: he was loking a bit nervus and was looking al around as iif trying to find something 
+Actual: he was looking a bit nervous and was looking all around as if trying to find something 
+
+Prediction: e was loking a bit nervous and was looking al around as if tring to find something 
+Actual: he was looking a bit nervous and was looking all around as if trying to find something 
+
+Prediction: wday was the son of late lieutenant ramakant mishra 
+Actual: uday was the son of late lieutenant ramakant mishra 
+
+Prediction: but then he did not want to earn fame aat the cost of others 
+Actual: but then he did not want to earn fame at the cost of others 
+
+Prediction: he had gone to visit his maternnal aunt in the village 
+Actual: he had gone to visit his maternal aunt in the village 
+
+Prediction: everyone in the village knew that he kept his valuables in there 
+Actual: everyone in the village knew that he kept his valuables in there 
+
+Prediction: his teacher was sure to inform his parents 
+Actual: his teacher was sure to inform his parents 
+
+Prediction: b night he thought of a story mustered u the courag and after dinner went to his parents bedoom 
+Actual: by night he thought of a story mustered up the courage and after dinner went to his parents bedroom 
+
+Prediction: slowly rahul tod his parents the full incident 
+Actual: slowly rahul told his parents the full incident 
+
+Prediction: t was lat at night rahul wa wondering what to tel his parents 
+Actual: it was late at night rahul was wondering what to tell his parents 
+
+Prediction: his teacher was sure to inform his parents 
+Actual: his teacher was sure to inform his parents 
+
+Prediction: time frame and place constitute the setting of story writing 
+Actual: time frame and place constitute the setting of story writing 
+
+Prediction: eighbors can be great frieds but let us face iit sometime they can be abslutely horible 
+Actual: neighbors can be great friends but let us face it sometimes they can be absolutely horrible 
+
+Prediction: so oe day i got this note in my mailbox forom the wife who lies upstairs 
+Actual: so one day i got this note in my mailbox from the wife who lives upstairs 
+
+Prediction: so the letter mad sarah realy upset 
+Actual: so the letter made sarah really upset 
+
+Prediction: it souds lie the neigbor as tried to tel sarah abut the problem before 
+Actual: it sounds like the neighbor has tried to tell sarah about the problem before 
+
+Prediction: mtracks start with slow dialog and continue with explaati os then  faster dialog 
+Actual: tracks start with slow dialog and continue with explanations then faster dialog 
+
+Prediction: we have a man make a speech 
+Actual: we have a man make a speech 
+
+Prediction: ghoosing avocaos i very hard because qupaliy matters a lt 
+Actual: choosing avocados is very hard because quality matters a lot 
+
+Prediction: i got a toy car when i was four yyears old 
+Actual: i got a toy car when i was four years old 
+
+Prediction: sanih has more letters compared to english 
+Actual: spanish has more letters compared to english 
+
+Prediction: i want to open a coffee shop 
+Actual: i want to open a coffee shop 
+
+Prediction: my favorite animal has to be a dog 
+Actual: my favorite animal has to be a dog 
+
+Prediction: i sent flowers for the first time today 
+Actual: i sent flowers for the first time today 
+
+Prediction: i was very happy after that 
+Actual: i was very happy after that 
+
+Prediction: i also like to eat cakes more than pies 
+Actual: i also like to eat cakes more than pies 
+
+Prediction: as a cild i used to run in a nearby playground 
+Actual: as a child i used to run in a nearby playground 
+
+Prediction: i practice phone cals so i do not mess up 
+Actual: i practice phone calls so i do not mess up 
+
+Prediction: i had all my toy piled on one side 
+Actual: i had all my toys piled on one side 
+
+Prediction: my hair is a purple color 
+Actual: my hair is a purple color 
+
+Prediction: n the beginning the characters think theey ar qal in the good place 
+Actual: in the beginning the characters think they are all in the good place 
+
+Prediction: i would prefer if cel phones did not changee sizes 
+Actual: i would prefer if cell phones did not change sizes 
+
+Prediction: i once saw a bear but it didnt do anything 
+Actual: i once saw a bear but it didnt do anything 
+
+Prediction: my favorite pizzais mae withh the puerfect ratio of crust to sauce 
+Actual: my favorite pizza is made with the perfect ratio of crust to sauce 
+
+Prediction: they ned to maincain law and order in the country 
+Actual: they need to maintain law and order in the country 
+
+Prediction: star wars is an imaginary world that ha multi clevels of races and planet 
+Actual: star wars is an imaginary world that has multi levels of races and planets 
+
+Prediction: the house was a fun place to play in 
+Actual: the house was a fun place to play in 
+
+Prediction: bananas are yelow and not gree 
+Actual: bananas are yellow and not green 
+
+Prediction: it is a beautiful and sunny day 
+Actual: it is a beautiful and sunny day 
+
+Prediction: i have to get going 
+Actual: i have to get going 
+
+Prediction: a friend is coming to visit son 
+Actual: a friend is coming to visit soon 
+
+Prediction: i do not feel like seeing anybody 
+Actual: i do not feel like seeing anybody 
+
+Prediction: eanut butter is made by crushing peanuts and adding oils 
+Actual: peanut butter is made by crushing peanuts and adding oils 
+
+Prediction: our friendship is stronng 
+Actual: our friendship is strong 
+
+Prediction: i go to the mal with my friends and family 
+Actual: i go to the mall with my friends and family 
+
+Prediction: there are many countries i want to visit 
+Actual: there are many countries i want to visit 
+
+Prediction: i can not live without my phone i use it for everything 
+Actual: i can not live without my phone i use it for everything 
+
+Prediction: thee are many holidays in december 
+Actual: there are many holidays in december 
+
+Prediction: i am always listening and trying to help when i can 
+Actual: i am always listening and trying to help when i can 
+
+Prediction: kids wil always find a way to be nice to each othe 
+Actual: kids will always find a way to be nice to each other 
+
+Prediction: my dream job woul be in sport 
+Actual: my dream job would be in sport 
+
+Prediction: it was the best job i have had 
+Actual: it was the best job i have had 
+
+Prediction: it happens once in a while 
+Actual: it happens once in a while 
+
+Prediction: i was happy to have a cupp of coffee 
+Actual: i was happy to have a cup of coffee 
+
+Prediction: i think cats are the most friendlyy animaly 
+Actual: i think cats are the most friendly animal 
+
+Prediction: bithout bees our environment would slowly decline 
+Actual: without bees our environment would slowly decline 
+
+Prediction: my poostmman may delivver his ow mail butut it seems unlikely 
+Actual: my postman may deliver his own mail but it seems unlikely 
+
+Prediction: mlease wait until i finish what i am trrying to say 
+Actual: please wait until i finish what i am trying to say 
+
+Prediction: i get upset when we disconnect 
+Actual: i get upset when we disconnect 
+
+Prediction: wthey also become bettter pegople when given support 
+Actual: they also become better people when given support 
+
+Prediction: wter is filtered fro my refrigerator at home 
+Actual: water is filtered from my refrigerator at home 
+
+Prediction: the judge agrees to change the scorng systerm 
+Actual: the judge agrees to change the scoring system 
+
+Prediction: i drink a lot of water when i am thirsty 
+Actual: i drink a lot of water when i am thirsty 
+
+Prediction: i believe that people can be nice to each other 
+Actual: i believe that people can be nice to each other 
+
+Prediction: my band would be calhed the little dogs 
+Actual: my band would be called the little dogs 
+
+Prediction: because honesty i the truth and a virtue 
+Actual: because honesty is the truth and a virtue 
+
+Prediction: turn down master bedroom ligh 
+Actual: turn down master bedroom lights 
+
+Prediction: i could not go witithout coffee in the morning 
+Actual: i could not go without coffee in the morning 
+
+Prediction: they caried on witth their lives 
+Actual: they carried on with their lives 
+
+Prediction: i might check that out tomrrow 
+Actual: i might check that out tomorrow 
+
+Prediction: it cost me a lot of money to ffix my laptop 
+Actual: it cost me a lot of money to fix my laptop 
+
+Prediction: love means to have great feelings for someone 
+Actual: love means to have great feelings for someone 
+
+Prediction: byou ned to sleep like everyone else 
+Actual: you need to sleep like everyone else 
+
+Prediction: they end up becoing far better friends 
+Actual: they end up becoming far better friends 
+
+Prediction: it is so sweet and cheesy and good 
+Actual: it is so sweet and cheesy and good 
+
+Prediction: it is not good to feel angry all the time 
+Actual: it is not good to feel angry all the time 
+
